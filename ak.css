@@ -1,0 +1,13 @@
+.my-style {
+    object-fit: cover;
+    height: 600px;
+}
+
+.card-image {
+    object-fit: cover;
+    height: 350px;
+}
+
+.footer {
+    width: 80%;
+}
